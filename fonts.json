@@ -1,0 +1,18 @@
+{
+  "fonts": {
+    "RiotSans": {
+      "regular": {
+        "woff2": "https://www.riotgames.com/assets/fonts/riot-sans/RiotSans-Regular.woff2",
+        "woff": "https://www.riotgames.com/assets/fonts/riot-sans/RiotSans-Regular.woff"
+      },
+      "bold": {
+        "woff2": "https://www.riotgames.com/assets/fonts/riot-sans/RiotSans-Bold.woff2",
+        "woff": "https://www.riotgames.com/assets/fonts/riot-sans/RiotSans-Bold.woff"
+      },
+      "italic": {
+        "woff2": "https://www.riotgames.com/assets/fonts/riot-sans/RiotSans-Italic.woff2",
+        "woff": "https://www.riotgames.com/assets/fonts/riot-sans/RiotSans-Italic.woff"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'RiotSans';
+  src: url('/fonts/RiotSans-Regular.woff2') format('woff2'),
+       url('/fonts/RiotSans-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RiotSans';
+  src: url('/fonts/RiotSans-Bold.woff2') format('woff2'),
+       url('/fonts/RiotSans-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'RiotSans';
+  src: url('/fonts/RiotSans-Italic.woff2') format('woff2'),
+       url('/fonts/RiotSans-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
