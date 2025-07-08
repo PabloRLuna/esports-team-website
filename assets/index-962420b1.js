@@ -267,7 +267,7 @@ Please change the parent <Route path="${o}"> to <Route path="${o==="/"?"*":`${o}
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/esports-team-website/images/event-background.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/esports-team-website/images/event/event-background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
