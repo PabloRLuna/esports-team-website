@@ -335,7 +335,7 @@ Please change the parent <Route path="${o}"> to <Route path="${o==="/"?"*":`${o}
   min-height: 100vh;
   width: 100vw;
   padding: 4rem 2rem;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/team-background.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/esports-team-website/images/team-background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -422,7 +422,7 @@ Please change the parent <Route path="${o}"> to <Route path="${o==="/"?"*":`${o}
   height: 100vh;
   width: 100vw;
   padding: 6rem 2rem 4rem;
-  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/images/contact-background.jpg');
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('/esports-team-website/images/contact-background.jpg');
   background-size: cover;
   background-position: center 45%;
   background-repeat: no-repeat;
